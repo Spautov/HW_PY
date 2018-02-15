@@ -1,1 +1,1 @@
-# HW_PY
+my homeworks repositary of Python
